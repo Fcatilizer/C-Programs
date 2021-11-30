@@ -9,11 +9,11 @@ int main(){
     scanf("%f", &b);
 
     printf("Enter the third number:");
-    scanf("%f", c);
+    scanf("%f", &c);
 
     avg = (a+b+c) / 3;
 
-    printf("(%f + %f +%f)/3 = %f ", a, b, c, avg);
+    printf("(%f + %f + %f)/3 = %f ", a, b, c, avg);
 
     return 0;
 }
