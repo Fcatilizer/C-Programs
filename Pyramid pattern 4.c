@@ -9,6 +9,10 @@ int main(){
         }
         printf("\n");
     }
+    for ( i = 0; i < count; i++)
+    {
+        /* code */
+    }
     
     return 0;
 }
