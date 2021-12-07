@@ -30,5 +30,5 @@ int main(){
         printf("All the numbers are at qual value");
     }
 
- return(0);   
+    return(0);   
 }
