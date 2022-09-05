@@ -20,7 +20,7 @@ int main()
     //DISPLAY DATA
     for (i=0; i<33; i++){
         if(s[i].Totalmarks>=75){
-            printf("Student Name:%s\n Roll_No:%d\n Marks:%f\n", s[i].StudentName, s[i].Roll_No, s[i].Totalmarks);
+            printf("Student Name: %s\n Roll_No: %d\n Marks: %f\n", s[i].StudentName, s[i].Roll_No, s[i].Totalmarks);
         }
     }
 
